@@ -1,5 +1,5 @@
 # SistemaCinema
-/* Gustavo Michaloski DRE: 120156181 - Yuri Laranja DRE:120163120*/
+/* Gustavo Michaloski - Yuri Laranja 
 
 #define FILEIRAS 40
 #define POLTRONAS 10
